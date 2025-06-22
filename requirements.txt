@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+gymnasium
+gym
+stable-baselines3
+pettingzoo[atari]
+autorom[accept-rom-license]
+supersuit
+imageio
